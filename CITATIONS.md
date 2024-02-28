@@ -30,7 +30,7 @@
 
 - [Anaconda](https://anaconda.com)
 
-  > Anaconda Software Distribution. Computer software. Vers. 2-2.4.0. Anaconda, Nov. 2016. Web.
+  > Anaconda Software Distribution. Computer software. Vers. 2-2.4.0. Anaconda, Feb. 2024. Web.
 
 - [Bioconda](https://pubmed.ncbi.nlm.nih.gov/29967506/)
 
