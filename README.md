@@ -37,6 +37,17 @@ Alternatively the nextflow run command can be used to pull the pipeline and then
 nextflow run ggruber193/automated-window-sliding <additional options>
 ```
 
+You can also clone the repository and use the pipeline this way. Here you have to use the `nextflow run` and provide the path to the `main.nf` file.
+
+```bash
+git clone https://github.com/ggruber193/automated-window-sliding.git
+```
+
+```bash
+nextflow run <path/to/cloned/repository>/main.nf <additional options>
+```
+
+
 ## Usage
 
 To check if everything works correctly the pipeline can be run on a minimal test case by using `-profile test`:
