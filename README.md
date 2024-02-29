@@ -22,7 +22,7 @@ This pipeline runs on the Nextflow Workflow System. For the installation of Next
 To run the pipeline the following programs are required:
    * [Python](https://www.python.org/downloads/) (tested with 3.11)
    * Python packages: [DendroPy](https://dendropy.org/), [Biopython](https://biopython.org/wiki/Download)
-   * [IQ-TREE](http://www.iqtree.org/#download) ([RAxML-ng](https://github.com/amkozlov/raxml-ng) optional)
+   * [IQ-TREE](http://www.iqtree.org/#download) ([RAxML-ng](https://github.com/amkozlov/raxml-ng) optional: if used for tree reconstruction)
 
 If you do not want to manually install these dependencies you can run the pipeline with docker, singularity or conda by using `-profile <docker/singularity/podman/apptainer/conda/mamba>`. If you want to use your locally installed programs omit this parameter.
 
